@@ -1,0 +1,1 @@
+# ARCH-GARCH-Model-using-NIFTY-50-data-2015-2025-
